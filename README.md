@@ -1,0 +1,1 @@
+A bunch of extra stuff for Aristotle that facilitates 'sharing' of metadata.
